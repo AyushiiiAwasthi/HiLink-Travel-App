@@ -26,7 +26,7 @@ To install and run the HiLink-Travel App on your local system, follow these step
    ```bash
    npm start
 
-## Check out the live version of the HiLink-Travel App [here](https://your-deployed-site-url](https://hi-link-travel-715pqdf9h-ayushis-projects-ba4757d1.vercel.app/)).
+## Check out the live version of the HiLink-Travel App [here](https://hi-link-travel-715pqdf9h-ayushis-projects-ba4757d1.vercel.app/).
 
 
 
