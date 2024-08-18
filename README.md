@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# HiLink-Travel App
 
-## Getting Started
+## Description
+HiLink-Travel App is the frontend of a website designed to assist campers in finding the nearest and safest locations, booking hotels, guiding them on easy paths, and providing offline maps to enhance their camping experience.
 
-First, run the development server:
+## Project Overview
+This project is built using:
+- **TypeScript**: For robust and scalable code.
+- **Tailwind CSS**: For modern, responsive, and customizable UI.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Installation and Running Locally
+To install and run the HiLink-Travel App on your local system, follow these steps:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. **Clone the Repository**
+   ```bash
+   git clone <repository-url>
+2. **Navigate to the Project Directory**
+   ```bash
+   cd hilink-travel-app
+3. **Install Dependencies**
+   Make sure you have Node.js installed. Then, install the required dependencies:
+   ```bash
+   npm install
+4. **Run the Application**
+   Start the development server:
+   ```bash
+   npm start
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Check out the live version of the HiLink-Travel App [here](https://your-deployed-site-url](https://hi-link-travel-715pqdf9h-ayushis-projects-ba4757d1.vercel.app/)).
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
